@@ -32,6 +32,7 @@ Follows the plots of average cost and reward, smoother over 200 epochs. Notice t
 ## References
 
 [1] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+
 [2] [Benchmarking Safe Exploration in Deep Reinforcement Learning](https://cdn.openai.com/safexp-short.pdf)
 
 ## License
